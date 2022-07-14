@@ -5,11 +5,11 @@
 		"factoryName": {
 			"value": "ADFproject101dev"
 		},
-		"LS_AzureKeyVault_properties_typeProperties_baseUrl": {
-			"value": "https://tomakv-dev.vault.azure.net/"
-		},
 		"AzureBlobStorage1_properties_typeProperties_connectionString_secretName": {
 			"value": "DevSANewAccess1"
+		},
+		"LS_AzureKeyVault_properties_typeProperties_baseUrl": {
+			"value": "https://tomakv-dev.vault.azure.net/"
 		},
 		"containerUri": {
 			"value": ""
