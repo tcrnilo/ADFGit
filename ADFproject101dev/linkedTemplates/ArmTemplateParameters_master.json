@@ -6,7 +6,7 @@
 			"value": "ADFproject101dev"
 		},
 		"AzureBlobStorage1_properties_typeProperties_connectionString_secretName": {
-			"value": "DevSANewAccess1"
+			"value": "SADevAccess"
 		},
 		"LS_AzureKeyVault_properties_typeProperties_baseUrl": {
 			"value": "https://tomakv-dev.vault.azure.net/"

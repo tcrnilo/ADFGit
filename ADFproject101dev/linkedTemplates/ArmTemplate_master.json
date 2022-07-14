@@ -9,7 +9,7 @@
 		},
 		"AzureBlobStorage1_properties_typeProperties_connectionString_secretName": {
 			"type": "string",
-			"defaultValue": "DevSANewAccess1"
+			"defaultValue": "SADevAccess"
 		},
 		"LS_AzureKeyVault_properties_typeProperties_baseUrl": {
 			"type": "string",
